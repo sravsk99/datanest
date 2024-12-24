@@ -28,9 +28,9 @@ Dataset link: https://zillow56.p.rapidapi.com/
 
 * **Step 2** - Exporting data from API to Apache Airflow through AWS EC2 instance.
 
-* **Step 3** - Create DAG and tasks to connect on Apache Airflow.
+* **Step 3** - Create DAG's in a Python file in VS Code and tasks to connect on Apache Airflow.
   
-* **Step 4** - Create ETL jobs to extract data to load it into an S3 bucket (the first one).
+* **Step 4** - Trigger tasks in Apache Airflow to create ETL jobs to extract data to load it into an S3 bucket (the first one).
  
 * **Step 5** - Create a AWS Lambda function that processes any new incoming data and is triggered by the first S3 bucket and then loaded into a second S3 bucket.
   
