@@ -1,5 +1,5 @@
 # Datanest : A Real Estate Pipeline in the Cloud (End to End)
-This project aims to leverage Amazon Web Services (AWS) to create a real estate data pipeline and analytics service. The project contains an ensemble of different data engineering, data analysis, and data science sections. The entire project is implemented on AWS Cloud.
+This project leverages Amazon Web Services (AWS) to build a comprehensive real estate data pipeline and analytics service. The solution integrates various components of data engineering, data analysis, and data science, offering a robust and scalable architecture to process, analyze, and derive insights from real estate data. The entire project is implemented on AWS Cloud.
 
 # Project Goals
 1. Data Ingestion - Create a data ingestion pipeline to extract new incoming data into the AWS data lake.
