@@ -39,3 +39,13 @@ Dataset link: https://zillow56.p.rapidapi.com/
 * **Step 7** - Connect transformed data to AWS Redshift to query and filter out necessary information.
   
 * **Step 8** - Create a dashboard in AWS Quickshift to visualize and answer questions according to business requirements or perform data analytics.
+  
+## Directory Structure
+
+- `airflow.cfg`: Configuration file for Apache Airflow.
+- `config_api.json`: Contains API configuration details.
+- `convert-to-csv-lambdafunction.py`: Lambda function for CSV conversion.
+- `rawjsonfile-lambda.py`: Lambda function to process raw JSON files.
+- `zillowanalysis.py`: Script for Zillow data analysis.
+- `README.md`: Project documentation.
+
